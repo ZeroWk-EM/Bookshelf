@@ -1,2 +1,2 @@
 # Bookshelf
-PHP,MYSQL Exercises
+Testing generation page with PHP, MYSQL
