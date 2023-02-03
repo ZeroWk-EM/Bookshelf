@@ -1,11 +1,11 @@
 bookshelf/assets/author/*
-!bookshelf/assets/author/readme.md
+!bookshelf/assets/author/README.md
 
 bookshelf/assets/book_cover/*
-!bookshelf/assets/book_cover/readme.md
+!bookshelf/assets/book_cover/README.md
 
 bookshelf/assets/character/female/*.jpg
-!bookshelf/assets/character/female/readme.md
+!bookshelf/assets/character/female/README.md
 
 bookshelf/assets/character/male/*.jpg
-!bookshelf/assets/character/male/readme.md
+!bookshelf/assets/character/male/README.md
